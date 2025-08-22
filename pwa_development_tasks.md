@@ -1,8 +1,8 @@
 ### **Phase 1: Project Setup & Pre-Development**
 - [ ] **Task 1: Initial PWA Setup**
-    - [ ] Set up the project repository and development environment.
-    - [ ] Choose the web technology stack (e.g., React/Vite, Next.js, Angular, Vue).
-    - [ ] Set up the basic PWA shell with a `manifest.json` and a service worker for offline capabilities.
+    - [x] Set up the project repository and development environment.
+    - [x] Choose the web technology stack (e.g., React/Vite, Next.js, Angular, Vue).
+    - [x] Set up the basic PWA shell with a `manifest.json` and a service worker for offline capabilities.
 - [ ] **Task 2: Address Dependencies & Concerns**
     - [ ] Coordinate with the venue to confirm and test Wi-Fi capabilities for over 100 concurrent users.
     - [ ] Plan and establish a dedicated on-site technical support team for the event day.
@@ -51,7 +51,7 @@
 
 ### **Phase 4: Deployment & Event Preparation**
 - [ ] **Task 10: Final Preparations**
-    - [ ] Deploy the PWA to a secure web host (e.g., Netlify, Vercel, AWS S3/CloudFront).
+    - [ ] Deploy the PWA to a secure web host (Vercel).
     - [ ] Set up HTTPS, which is required for service workers and PWA functionality.
     - [ ] Create and distribute multilingual support materials and QR codes for easy app access.
     - [ ] Train all volunteers and on-site staff on app features and accessibility best practices.
