@@ -1,0 +1,27 @@
+{
+  "name": "IT Scavenger Hunt",
+  "short_name": "HunterApp",
+  "description": "Secure team-based scavenger hunt application",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d9488",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/vite.svg", 
+      "sizes": "32x32",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["games", "education"],
+  "lang": "en",
+  "dir": "ltr"
+}

@@ -1,10 +1,12 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App.micro.jsx'
+import SimpleApp from './App.simple.jsx'
 import './index.css'
+
+console.log('🚀 SIMPLE MAIN.JSX LOADING...')
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <App />
+    <SimpleApp />
   </React.StrictMode>,
 )
